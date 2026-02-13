@@ -6,16 +6,16 @@ Collection of materials, presentations, and resources from my public speaking en
 
 ### 2026
 
-- **[AZUG February 2026](azug-february-2026/)** - Azure Arc: From Local to Cloud-Native: Real-World Azure Arc in Action
+- **[AZUG 02/2026](azug-february-2026/)** - Azure Arc: From Local to Cloud-Native: Real-World Azure Arc in Action
 
 ### 2025
 
-- **[CloudBrew 2025](cloudbrew-2025/)** - Azure Monitor: Latest features and best practices for Microsoft's comprehensive monitoring solution
+- **[CloudBrew 12/2025](cloudbrew-december-2025/)** - Azure Monitor: Latest features and best practices for Microsoft's comprehensive monitoring solution
 
 ### 2023
 
-- **[Data Science Meetup September 2023](datasciencemeetup-september-2023/)** - AKS Edge Essentials: Kubernetes at the Edge
-- **[MLOps Meetup September 2023](mlopsmeetup-september-2023/)** - AKS Edge Essentials: Kubernetes at the Edge
+- **[Data Science Meetup 09/2023](datasciencemeetup-september-2023/)** - AKS Edge Essentials: Kubernetes at the Edge
+- **[MLOps Meetup 09/2023](mlopsmeetup-september-2023/)** - AKS Edge Essentials: Kubernetes at the Edge
 
 ---
 
