@@ -6,6 +6,7 @@ Collection of materials, presentations, and resources from my public speaking en
 
 ### 2026
 
+- **[AZUG 06/2026](azug-june-2026/)** - SRE Agent: What Is It?
 - **[AFC Cloud & Edge Computing 03/2026](afc-cloud-edge-computing-march-2026/)** - Microsoft Cloud and Edge Computing Workshop
 - **[AZUG 02/2026](azug-february-2026/)** - Azure Arc: From Local to Cloud-Native: Real-World Azure Arc in Action
 
