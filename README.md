@@ -7,7 +7,7 @@ Collection of materials, presentations, and resources from my public speaking en
 ### 2026
 
 - **[VISUG XL 11/2026](visugXL-november-2026/)** - Debugging Agentic AI with GitHub Copilot CLI and Azure Observability
-- **[MC2MC 10/2026](mc2mc-october-2026/)** - Introduction to Azure Monitor
+- **[MC2MC 10/2026](mc2mc-october-2026/)** - Modern Observability in Azure
 - **[Azure Fest 09/2026](azure-fest-september-2026/)** - Azure Fest Presentation
 - **[AZUG 06/2026](azug-june-2026/)** - SRE Agent: What Is It?
 - **[AFC Cloud & Edge Computing 03/2026](afc-cloud-edge-computing-march-2026/)** - Microsoft Cloud and Edge Computing Workshop
